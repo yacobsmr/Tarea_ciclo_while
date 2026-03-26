@@ -11,19 +11,19 @@
 
 ### Punto 1: Múltiplos de un número
 Programa que lee dos enteros (a, b) e imprime los **a** primeros múltiplos de **b**.
-![Diagrama de Flujo](file:///F:/Documentos/Universidad/2026/Semestre_1/Pensamiento_Algoritimico/Tarea_ciclo_while/Ejercisio_clase/Diagrama_de_flujo/punto_1.png)
+![Diagrama de Flujo](Ejercisio_clase/Diagrama_de_flujo/ejercisio_1.png)
 
 ### Punto 2: Validación con contador de errores
 Implementación de una entrada validada que informa la cantidad de intentos fallidos realizados por el usuario.
-![Diagrama de Flujo](file:///F:/Documentos/Universidad/2026/Semestre_1/Pensamiento_Algoritimico/Tarea_ciclo_while/Ejercisio_clase/Diagrama_de_flujo/punto2.png)
+![Diagrama de Flujo](Ejercisio_clase/Diagrama_de_flujo/ejercisio_2.png)
 
 ### Punto 3: Saludo hasta entrada vacía
 Ciclo que solicita nombres y saluda continuamente hasta que se recibe una cadena vacía ("").
-![Diagrama de Flujo](file:///F:/Documentos/Universidad/2026/Semestre_1/Pensamiento_Algoritimico/Tarea_ciclo_while/Ejercisio_clase/Diagrama_de_flujo/punto3.png)
+![Diagrama de Flujo](Ejercisio_clase/Diagrama_de_flujo/ejercisio_3.png)
 
 ### Punto 4: Conteo de múltiplos de 3
 Función que recibe dos enteros (a, b) e identifica la cantidad de múltiplos de 3 existentes en ese rango inclusivo.
-![Diagrama de Flujo](file:///F:/Documentos/Universidad/2026/Semestre_1/Pensamiento_Algoritimico/Tarea_ciclo_while/Ejercisio_clase/Diagrama_de_flujo/punto4.png)
+![Diagrama de Flujo](Ejercisio_clase/Diagrama_de_flujo/ejercisio_4.png)
 
 ### Punto 5: Análisis de ejecución y robustez
 en momentos falla por lógica si b < a como por ejemplo de 10 a 1 porque en ese caso la condición indice <= b es falsa desde el inicio y el ciclo nunca se ejecuta por lo que no imprime ningún número no se vuelve infinito porque el contador solo avanza hacia arriba, alejándose de la meta en lugar de alcanzarla.
@@ -33,15 +33,13 @@ en momentos falla por lógica si b < a como por ejemplo de 10 a 1 porque en ese 
 ## 2. Ejercicios de Refuerzo
 
 ### Punto 6: Inversión de palabra
-Programa que descompone una palabra y muestra sus caracteres uno a uno desde el último hasta el primero.
-![Diagrama de Flujo](file:///F:/Documentos/Universidad/2026/Semestre_1/Pensamiento_Algoritimico/Tarea_ciclo_while/Refuerzos/Diagrama_de_flujo/punto6.png)
+Programa que pida al usuario una palabra y luego muestre por pantalla una a una las letras empezando por la última.
+![Diagrama de Flujo](Refuerzos/Diagrama_de_flujo/ejercisio_6.png)
 
 ### Punto 7: Frecuencia de caracteres
-Sistema que solicita una frase y una letra para calcular el número total de apariciones de dicha letra.
-![Diagrama de Flujo](file:///F:/Documentos/Universidad/2026/Semestre_1/Pensamiento_Algoritimico/Tarea_ciclo_while/Refuerzos/Diagrama_de_flujo/punto7.png)
+Programa que pregunta al usuario por una frase y una letra, y muestra el número de veces que aparece la letra en la frase.
+![Diagrama de Flujo](Refuerzos/Diagrama_de_flujo/ejercisio_7.png)
 
 ### Punto 8: Sucesión de Fibonacci
-Generación de la serie numérica de Fibonacci deteniendo la ejecución al superar el umbral de 100.
-![Diagrama de Flujo](file:///F:/Documentos/Universidad/2026/Semestre_1/Pensamiento_Algoritimico/Tarea_ciclo_while/Refuerzos/Diagrama_de_flujo/punto8.png)
-
----
+Generación de números de Fibonacci hasta superar el valor de 100.
+![Diagrama de Flujo](Refuerzos/Diagrama_de_flujo/ejercisio_8.png)
