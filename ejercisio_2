@@ -1,0 +1,12 @@
+intentos_fallidos = 0
+    
+entrada = input("Digite si")
+    
+while entrada != "si":
+    intentos_fallidos = intentos_fallidos + 1
+    print("Cantidad de errores:", intentos_fallidos)
+        
+    entrada = input("ingresar 'si' ")
+    
+print("")
+

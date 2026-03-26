@@ -1,0 +1,10 @@
+linea = input("")
+    
+while linea != "":
+    print("¡Hola,", linea + "!")
+        
+    linea = input(" ")
+    
+
+
+

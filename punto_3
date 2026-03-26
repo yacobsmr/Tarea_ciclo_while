@@ -1,0 +1,12 @@
+a = 0
+b = 1
+
+print(a)
+
+while b <= 100:
+    print(b)
+    suma = a + b
+    a = b
+    b = suma
+
+print(b)

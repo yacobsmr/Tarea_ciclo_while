@@ -1,0 +1,13 @@
+a = int(input(""))
+b = int(input(""))
+
+cantidad_multiplos = 0
+indice = a
+
+while indice <= b:
+    if indice % 3 == 0:
+        cantidad_multiplos = cantidad_multiplos + 1
+    
+    indice = indice + 1
+
+print(a, "y", b, "hay", cantidad_multiplos)

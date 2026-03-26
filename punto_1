@@ -1,0 +1,6 @@
+palabra = input(" ")
+nd = len(palabra) - 1
+
+while nd >= 0:
+    print(palabra[nd])
+    nd = nd - 1

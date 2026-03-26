@@ -1,0 +1,12 @@
+a = int(input(""))
+b = int(input(""))
+
+contador = 1
+
+print(a, "múltiplos de", b)
+
+while contador <= a:
+    multiplo = contador * b
+    print(multiplo)
+    
+    contador = contador + 1
