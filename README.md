@@ -11,19 +11,19 @@
 
 ### Punto 1: Múltiplos de un número
 Programa que lee dos enteros (a, b) e imprime los **a** primeros múltiplos de **b**.
-![Diagrama de Flujo](F:\Documentos\Universidad\2026\Semestre_1\Pensamiento_Algoritimico\Tarea_ciclo_while\Ejercisio_clase\Diagrama_de_flujo/Ejercisio_1.png)
+![Diagrama de Flujo](file:///F:/Documentos/Universidad/2026/Semestre_1/Pensamiento_Algoritimico/Tarea_ciclo_while/Ejercisio_clase/Diagrama_de_flujo/Ejercisio_1.png)
 
 ### Punto 2: Validación con contador de errores
 Implementación de una entrada validada que informa la cantidad de intentos fallidos realizados por el usuario.
-![Diagrama de Flujo](Ejercisio_clase/Diagrama_de_flujo/ejercisio_2.png)
+![Diagrama de Flujo](file:///F:/Documentos/Universidad/2026/Semestre_1/Pensamiento_Algoritimico/Tarea_ciclo_while/Ejercisio_clase/Diagrama_de_flujo/Ejercisio_2.png)
 
 ### Punto 3: Saludo hasta entrada vacía
 Ciclo que solicita nombres y saluda continuamente hasta que se recibe una cadena vacía ("").
-![Diagrama de Flujo](Ejercisio_clase/Diagrama_de_flujo/ejercisio_3.png)
+![Diagrama de Flujo](file:///F:/Documentos/Universidad/2026/Semestre_1/Pensamiento_Algoritimico/Tarea_ciclo_while/Ejercisio_clase/Diagrama_de_flujo/Ejercisio_3.png)
 
 ### Punto 4: Conteo de múltiplos de 3
 Función que recibe dos enteros (a, b) e identifica la cantidad de múltiplos de 3 existentes en ese rango inclusivo.
-![Diagrama de Flujo](Ejercisio_clase/Diagrama_de_flujo/ejercisio_4.png)
+![Diagrama de Flujo](file:///F:/Documentos/Universidad/2026/Semestre_1/Pensamiento_Algoritimico/Tarea_ciclo_while/Ejercisio_clase/Diagrama_de_flujo/Ejercisio_4.png)
 
 ### Punto 5: Análisis de ejecución y robustez
 en momentos falla por lógica si b < a como por ejemplo de 10 a 1 porque en ese caso la condición indice <= b es falsa desde el inicio y el ciclo nunca se ejecuta por lo que no imprime ningún número no se vuelve infinito porque el contador solo avanza hacia arriba, alejándose de la meta en lugar de alcanzarla.
