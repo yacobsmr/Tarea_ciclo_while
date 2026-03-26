@@ -15,7 +15,7 @@ Programa que lee dos enteros (a, b) e imprime los **a** primeros múltiplos de *
 
 ### Punto 2: Validación con contador de errores
 Implementación de una entrada validada que informa la cantidad de intentos fallidos realizados por el usuario.
-![Diagrama de Flujo](/Ejercisio_2.png)
+![Diagrama de Flujo](Ejercisio_2.png)
 
 ### Punto 3: Saludo hasta entrada vacía
 Ciclo que solicita nombres y saluda continuamente hasta que se recibe una cadena vacía ("").
