@@ -38,7 +38,7 @@ Programa que pida al usuario una palabra y luego muestre por pantalla una a una 
 
 ### Punto 7: Frecuencia de caracteres
 Programa que pregunta al usuario por una frase y una letra, y muestra el número de veces que aparece la letra en la frase.
-![Diagrama de Flujo](/punto_2.png)
+![Diagrama de Flujo](punto_2.png)
 
 ### Punto 8: Sucesión de Fibonacci
 Generación de números de Fibonacci hasta superar el valor de 100.
