@@ -11,7 +11,7 @@
 
 ### Punto 1: Múltiplos de un número
 Programa que lee dos enteros (a, b) e imprime los **a** primeros múltiplos de **b**.
-![Diagrama de Flujo](file:///F:/Documentos/Universidad/2026/Semestre_1/Pensamiento_Algoritimico/Tarea_ciclo_while/Ejercisio_clase/Diagrama_de_flujo/punto1.png)
+![Diagrama de Flujo](file:///F:/Documentos/Universidad/2026/Semestre_1/Pensamiento_Algoritimico/Tarea_ciclo_while/Ejercisio_clase/Diagrama_de_flujo/punto_1.png)
 
 ### Punto 2: Validación con contador de errores
 Implementación de una entrada validada que informa la cantidad de intentos fallidos realizados por el usuario.
